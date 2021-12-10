@@ -1,4 +1,4 @@
-TITLE
+TITLE:
 Comparing various Machine Learning models used to Detect and Diagonize Breast Cancer
 
 ABSTRACT
