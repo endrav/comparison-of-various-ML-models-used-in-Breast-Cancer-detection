@@ -18,7 +18,7 @@ Classification models used for this project are:
 
 About Dataset:
 
-The dataset used for this project is Breast Cancer Wisconsin Data Set. It contains 569 instances of tumour samples and 33 features. 'Diagnosis' feature is our target label which uses 'M' and 'B' variables to classify the input tumour sample. 'M' represents Malignant and is used to represent cancerous tumours. 'B' represents Benign and is used to represent non-cancerous tumours. 
+The dataset used for this project is Breast Cancer Wisconsin Data Set. It contains 569 instances of tumour samples and 33 features. 'Diagnosis' feature is our target label which uses 'M' and 'B' variables to classify the input tumour sample. 'M' represents Malignant and is used to represent cancerous tumours. 'B' represents Benign and is used to represent non-cancerous tumours. Dataset used in this project can be found here: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 PROJECT
 
